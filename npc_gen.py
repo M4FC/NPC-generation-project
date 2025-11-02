@@ -7,7 +7,7 @@ while start != "yes":
 atstrength=random.randint(1,100)
 atage=random.randint(1,95)
 # lines 18-19 make strength and age attributes randomized with random.randint
-names=["Geraldine","Peter","Derrick","Eugene","Joseph""Hailey","Madison","Irene","Cassidy","Lexi"]
+names=["Geraldine","Peter","Derrick","Eugene","Joseph","Hailey","Madison","Irene","Cassidy","Lexi"]
 atnames=random.choice(names)
 Heights=["1.1","1,2","1.3","1.4","1.5","1.7","1.8","2.0","2.5"]
 atheight=(random.choice(Heights))
